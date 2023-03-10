@@ -15,7 +15,7 @@
 <img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" />
 
 
-<h4> Principais ferramentas utilizadas no meu dia a dia dia a dia</h4>
+<h4> Principais ferramentas utilizadas no meu dia a dia</h4>
 <div style="display: inline_block"><br>
 <a href=""><img style="width: 40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" /></a>
 <img style="width: 35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="" />
