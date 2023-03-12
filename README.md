@@ -1,7 +1,10 @@
 ## Olá, Me chamo Luan! 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=luanmachadoyt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=luanmachadoyt&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div>
+  <a href="https://github.com/dhoouglas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmachadoyt&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanmachadoyt&show_icons=true&theme=gruvbox"/>
+</div>
 
 <h3>🎈Olá, prazer me chamo Luan! Eu comecei na are de programação com 16 anos e agora eu tenho 17. Curto muito area de tecnologia trabalho com Design, UI, Front-end. Caso queira me seguir será um prazer ter a sua presença aqui comigo!😁</h3></br>
 
