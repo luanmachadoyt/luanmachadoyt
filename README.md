@@ -1,5 +1,7 @@
 <div>
+    <a href="https://luanmachadoyt.github.io/Luan-Machado">
     <img style="border-radius: 15px" src="https://github.com/luanmachadoyt/luanmachadoyt/blob/cobrinha/Banner.png?raw=true" alt="minha foto" />
+    </a>
 </div>
 
 <h3>🎈Olá, prazer me chamo Luan! Eu comecei na area de programação com 16 anos e agora eu tenho 17. Curto muito area de tecnologia trabalho com Design, UI, Front-end. Caso queira me seguir será um prazer ter a sua presença aqui comigo!😁</h3></br>
